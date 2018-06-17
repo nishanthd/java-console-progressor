@@ -1,0 +1,28 @@
+{
+    "run": {
+        "default": "",
+        "items": [
+            {
+                "name": "console-progressor",
+                "projectName": "console-progressor",
+                "workingDirectory": "d:\\Code\\eclipse_workspace\\console-progressor",
+                "args": [],
+                "vmargs": [],
+                "preLaunchTask": ""
+            }
+        ]
+    },
+    "debug": {
+        "default": "",
+        "items": [
+            {
+                "name": "console-progressor",
+                "projectName": "console-progressor",
+                "workingDirectory": "d:\\Code\\eclipse_workspace\\console-progressor",
+                "args": [],
+                "vmargs": [],
+                "preLaunchTask": ""
+            }
+        ]
+    }
+}
